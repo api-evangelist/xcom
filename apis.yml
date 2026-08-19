@@ -33,7 +33,7 @@ x-identity-evidence:
 - https://www.battery.com/list-of-all-companies/ (listed as "XCOM *", exited investment)
 - New York Times, 1998-04-07, "Level 3 Communications Adding Xcom Technologies"
 - Wall Street Journal, "Level 3 Agrees to Acquire XCOM In $165 Million Bid"
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
